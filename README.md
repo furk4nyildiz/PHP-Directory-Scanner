@@ -10,10 +10,9 @@
   - Example : `php find.php -d google.com -s all`
   - Example : `php find.php -d google.com -s 302`
   - Example : `php find.php -d google.com -s 200 -w WORDLIST`
-  
-  -h Help
-  -w Wordlist
-  -s HTTP Status Code
-  -d Domain
+  - -h Help
+  - -w Wordlist
+  - -s HTTP Status Code
+  - -d Domain
   
 <a href="http://furkanyildiz.com/"><img src="http://furkanyildiz.com/githubgif/directoryscanner.gif"/></a>
